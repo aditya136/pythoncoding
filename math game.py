@@ -1,0 +1,21 @@
+print("Hello.My name is aditya banerjee.I try to make a game about math.Please try this and give me reviwe.Thanks")
+print("GIve me the answer properle.")
+print("So,let start the game")
+print("You have to solve a math.")
+print("It is :your Birth Date * 2")
+print("Then you have to  + 5 nomber with the answer")
+print("Then your work is : * 50 number with the answer")
+print("The last one.Now,you + your Birth month number with the  answer")
+# answer = input("what is your last answer:")
+# x = answer - 250
+# print(x)
+print("It is yout answer.")
+print("the last two character is your Birth mont and the first is your Birth Day.")
+print("whice one: Poor, Good, Well or Excellent.")
+x = input("Please give your reviwe:")
+print(x)
+print("Thanks for play this game.")
+print("owner:Aditya Banerjee")
+print("This game here from Python.")
+
+
